@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+
+<h1>About Kelly<h1>
+<p>My name is Kelly Rodriguez and I am vegan and my favorite color is yellow</p>
+
+</body>
+
+</html>
